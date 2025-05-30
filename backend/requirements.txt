@@ -1,0 +1,7 @@
+Django>=5.0.0
+djangorestframework>=3.14.0
+django-cors-headers>=4.3.0
+# Database
+sqlparse>=0.4.4
+# Development
+python-dotenv>=1.0.0 
